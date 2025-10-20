@@ -75,9 +75,7 @@ ShreeBalaji_Inventory_Analysis/
 
 │ ├── sales_data.csv \n
 
-
 │ ├── inventory_data.csv
-
 
 │ └── pricing_data.csv
 ├── notebooks/
