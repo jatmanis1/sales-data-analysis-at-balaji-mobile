@@ -73,7 +73,7 @@ Collected primary data (182 transactions across 14 product categories) from hand
 ShreeBalaji_Inventory_Analysis/
 ├── data/
 
-│ ├── sales_data.csv /n
+│ ├── sales_data.csv \n
 │ ├── inventory_data.csv
 │ └── pricing_data.csv
 ├── notebooks/
