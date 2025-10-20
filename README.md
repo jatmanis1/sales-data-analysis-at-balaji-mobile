@@ -102,7 +102,7 @@ ShreeBalaji_Inventory_Analysis/
 ---
 
 ## 📎 Additional Resources  
-📄 [Full Report (End Term PDF)](./reports/EndTerm_Report.pdf)  
+📄 [Full Report (End Term PDF)](./EndTerm_Report.pdf)  
 📊 [Dataset & Analysis Sheets (Google Drive)](https://drive.google.com/drive/folders/1GRhrVpoOcmGeqhYlb5AzXErpBVzqn65C)
 
 ---
@@ -110,8 +110,8 @@ ShreeBalaji_Inventory_Analysis/
 ## 👤 Author  
 **Manish Jat**  
 📍 IIT Madras BS Degree Program  
-📧 [add-your-email@example.com]  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+📧 [jatmanis1.mail@gmail.com]  
+🔗 [LinkedIn](https://linkedin.com/in/jatmanish) | [GitHub](https://github.com/jatmanis1)
 
 ---
 
