@@ -102,7 +102,7 @@ ShreeBalaji_Inventory_Analysis/
 ---
 
 ## 📎 Additional Resources  
-📄 [Full Report (End Term PDF)](./blob/main/EndTerm.pdf)  
+📄 [Full Report (End Term PDF)](./EndTerm.pdf)  
 📊 [Dataset & Analysis Sheets (Google Drive)](https://drive.google.com/drive/folders/1GRhrVpoOcmGeqhYlb5AzXErpBVzqn65C)
 
 ---
