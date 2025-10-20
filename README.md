@@ -68,30 +68,28 @@ Collected primary data (182 transactions across 14 product categories) from hand
 | Annual Revenue | ₹4.42M | **₹5.22M (+₹800K)** |
 
 ---
-
-## 📂 Project Structure  
 ShreeBalaji_Inventory_Analysis/
 ├── data/
-
-│ ├── sales_data.csv \n
-
-│ ├── inventory_data.csv
-
-│ └── pricing_data.csv
+│   ├── sales_data.csv
+│   ├── inventory_data.csv
+│   └── pricing_data.csv
+│
 ├── notebooks/
-│ ├── data_cleaning.ipynb
-│ ├── inventory_analysis.ipynb
-│ ├── pricing_analysis.ipynb
-│ └── forecasting_model.ipynb
+│   ├── data_cleaning.ipynb
+│   ├── inventory_analysis.ipynb
+│   ├── pricing_analysis.ipynb
+│   └── forecasting_model.ipynb
+│
 ├── reports/
-│ └── EndTerm_Report.pdf
+│   └── EndTerm_Report.pdf
+│
 ├── visuals/
-│ ├── turnover_plot.png
-│ ├── abc_analysis.png
-│ └── revenue_loss_chart.png
+│   ├── turnover_plot.png
+│   ├── abc_analysis.png
+│   └── revenue_loss_chart.png
+│
 ├── README.md
 └── requirements.txt
-
 
 ---
 
